@@ -1,0 +1,1 @@
+Got bored waiting for a game queue and decided to implement the screensaver playing on my wife's TV in Javascript. This probably couldn't been implemented better, idk
