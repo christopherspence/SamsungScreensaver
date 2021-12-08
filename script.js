@@ -1,4 +1,4 @@
-{
+const app = () => {
     let logo = document.getElementById('logo');
     let x = 0;
     let y = 0;
@@ -73,4 +73,6 @@
         direction1 = changeDirection(direction1);
         direction2 = changeDirection(direction2);
     }, 25);
-}
+};
+
+window.addEventListener('load', app);

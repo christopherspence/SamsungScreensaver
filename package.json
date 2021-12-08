@@ -1,0 +1,23 @@
+{
+  "name": "samsungscreensaver",
+  "version": "1.0.0",
+  "description": "Got bored waiting for a game queue and decided to implement the screensaver playing on my wife's TV in Javascript. This probably couldn't been implemented better, idk",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server --verbose",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christopherspence/SamsungScreensaver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christopherspence/SamsungScreensaver/issues"
+  },
+  "homepage": "https://github.com/christopherspence/SamsungScreensaver#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
